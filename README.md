@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar</h1>
-<h3 align="center">I am a Full Stack JavaScript Developer with 5 years of experience.</h3>
+<h3 align="center">I am a Full Stack JavaScript Developer with 8 years of experience.</h3>
 
 - 🌱 I’m currently learning **Stelve, Android**
 
