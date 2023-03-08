@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [Projects](mellifluous-licorice-1dc0f2.netlify.app)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
